@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ProjektPark3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  QtMsBuild: could not locate qt.targets, qt.props; project may not build correctly.
+  Tree.cpp
+  Bench.cpp
+  main.cpp
+  Place.cpp
+c:\users\piotr\desktop\github\proe\projektpark3\projektpark3\projectpark.h(3): fatal error C1083: Cannot open include file: 'QtWidgets/QMainWindow': No such file or directory (compiling source file main.cpp)
+  Park.cpp
+  ParkWithRiver.cpp
+  Playground.cpp
+  Statue.cpp
+  ProjectPark.cpp
+c:\users\piotr\desktop\github\proe\projektpark3\projektpark3\projectpark.h(3): fatal error C1083: Cannot open include file: 'QtWidgets/QMainWindow': No such file or directory (compiling source file ProjectPark.cpp)
